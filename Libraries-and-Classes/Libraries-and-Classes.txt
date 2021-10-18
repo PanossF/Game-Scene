@@ -1,1 +1,1 @@
-this is the folder where all libraries and classes are used for the main.cpp file which executes the game scene.
+this is the folder where all libraries and classes are used for the main file which is the Game-Scene.cpp file which executes the game scene.
